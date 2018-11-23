@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Neo.sdk.thin" Version="1.0.1" />
+    <PackageReference Include="Neo.sdk.thin" Version="1.0.2" />
   </ItemGroup>
 
   <ItemGroup>
